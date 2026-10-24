@@ -3,9 +3,10 @@
     "id": "io.github.micasiliconneko.hikoto",
     "restype": "quick_app",
     "name": "一言",
-    "description": "一个vibe code的一言小程序",
+    "description": "一个vibe code的一言小程序，目前暂时不考虑适配胶囊屏",
     "preview": [
-      "media/xiaomi_band_pro-2026-10-17-10-37-19.png",
+      "media/xiaomi_band_pro-2026-10-24-16-52-16.png",
+      "media/xiaomi_band_pro-2026-10-24-16-52-23.png",
       "media/xiaomi_band_pro-2026-10-17-10-38-07.png"
     ],
     "icon": "media/icon-E2-mid.png",
@@ -20,14 +21,14 @@
   "links": [],
   "downloads": {
     "xmb10p": {
-      "version": "1.6.6",
-      "file_name": "downloads/split-7000-cap500-v1.6.6.rpk",
-      "versionCode": 23
+      "version": "1.6.8",
+      "file_name": "downloads/split-7000-fav-v1.6.8.rpk",
+      "versionCode": 25
     },
     "xmb9p": {
-      "version": "1.6.6",
-      "file_name": "downloads/split-7000-cap500-v1.6.6.rpk",
-      "versionCode": 23
+      "version": "1.6.8",
+      "file_name": "downloads/split-7000-fav-v1.6.8.rpk",
+      "versionCode": 25
     }
   },
   "ext": {}
